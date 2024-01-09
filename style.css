@@ -8,3 +8,12 @@ body{
     font-family: 'Jost' , sans-serif;
     background: linear-gradient(to bottom, #4A55A2,  #7895CB, #24243e);
 }
+.main{
+    width: 350px;
+    height: 500px;
+    background: #EEE;
+    overflow: hidden;
+    background: url("") no-repeat center / cover;
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+}
